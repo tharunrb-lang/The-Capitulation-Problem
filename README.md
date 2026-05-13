@@ -123,10 +123,10 @@ If the answer to Q3 is no, the pressure is social discomfort dressed as epistemi
 ## 📄 Citation
 
 ```bibtex
-@article{rathod2026capitulation,
+@article{Tharun-capitulation,
   title   = {The Capitulation Problem: A Conditional Optimization Framework
              for First-Output Fidelity Across Human and AI Decision Systems},
-  author  = {Rathod B., Tharun},
+  author  = {Tharun Rathod B},
   year    = {2026},
   note    = {Independent Research, IIT Roorkee}
 }
