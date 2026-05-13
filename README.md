@@ -37,4 +37,4 @@ The research proposes a framework to stop capitulation:
 
 ## 🔗 How to Cite
 If you use this dataset or the P4 Anomaly framework in your research, please cite:
-> Rathore, T. (2026). The Capitulation Problem: A Conditional Optimization Framework for First-Output Fidelity. Independent Research, IIT Roorkee.
+> Rathod, T. (2026). The Capitulation Problem: A Conditional Optimization Framework for First-Output Fidelity. Independent Research, IIT Roorkee.
