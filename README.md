@@ -1,7 +1,7 @@
 # The-Capitulation-Problem
 This repository explores why LLMs like Gemma 4B prioritize social compliance over factual truth when challenged. Featuring a dataset of 486+ trials mapping the breaking point of AI knowledge under social pressure. Foundational work for AI safety and human-AI interaction.
 # The Capitulation Problem: A Conditional Optimization Framework
-**Author:** Tharun Rathore B. (IIT Roorkee)
+**Author:** Tharun Rathod B. (IIT Roorkee)
 
 ## 📌 Project Overview
 This repository contains the dataset and analysis for the "Capitulation Problem"—a study on why decision-making systems (Human and AI) abandon correct first-outputs under social pressure rather than new information.
